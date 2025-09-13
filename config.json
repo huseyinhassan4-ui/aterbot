@@ -1,7 +1,7 @@
 {
 	"client": {
-		"host": "Please enter your server URL",
-		"port": "Please enter your server port",
+		"host": "Sky_Void.aternos.me",
+		"port": "20995",
 		"username": "Please enter the bot's username you want"
 	},
 	
